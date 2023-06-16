@@ -1,0 +1,42 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "position": "Software Developer"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "position": "UI/UX Designer"
+    },
+    {
+      "id": 3,
+      "name": "Mark Johnson",
+      "email": "mark.johnson@example.com",
+      "position": "Project Manager"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 10.99,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 19.99,
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 5.99,
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+    }
+  ]
+}
